@@ -1,3 +1,3 @@
 # just-learning
 
-## and finding new way
+## and finding a new way
